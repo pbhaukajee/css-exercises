@@ -1,4 +1,4 @@
-/* div {
+div {
   background-color: red;
   color: white;
   font-size: 32px;
@@ -6,11 +6,7 @@
   font-weight: bold;
 }
 
-p {
-  background-color: green;
-  color: white;
-  font-size: 18px;
-}
+
 
 button {
   background-color: orange;
